@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Angular\\BMS\\BMSAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\data\\blogs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\data\\blogs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\services\\blogs\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\services\\blogs\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\data\\usersdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\data\\usersdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\services\\blogs\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\services\\blogs\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\services\\authentication\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\services\\authentication\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\services\\authentication\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\services\\authentication\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|d:\\angular\\bms\\bmsapi\\bmsapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D8647-309C-460E-8DA2-D78A52D25BBD}|BMSAPI\\BMSAPI.csproj|solutionrelative:bmsapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 55,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Authentication\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Services\\Authentication\\IAuthentication.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Authentication\\IAuthentication.cs",
+              "RelativeToolTip": "BMSAPI\\Services\\Authentication\\IAuthentication.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:45:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BMSAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:26:32.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "BMSAPI\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:25:52.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Models\\User.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Models\\User.cs",
+              "RelativeToolTip": "BMSAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:28:18.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blogs.json",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Data\\Blogs.json",
+              "RelativeDocumentMoniker": "BMSAPI\\Data\\Blogs.json",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Data\\Blogs.json",
+              "RelativeToolTip": "BMSAPI\\Data\\Blogs.json",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwG8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T05:39:05.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BMSAPI\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswLEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:23:18.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersData.json",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Data\\UsersData.json",
+              "RelativeDocumentMoniker": "BMSAPI\\Data\\UsersData.json",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Data\\UsersData.json",
+              "RelativeToolTip": "BMSAPI\\Data\\UsersData.json",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAMUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T08:49:47.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Program.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Program.cs",
+              "RelativeToolTip": "BMSAPI\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:38:28.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Blogs\\BlogService.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Services\\Blogs\\BlogService.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Blogs\\BlogService.cs",
+              "RelativeToolTip": "BMSAPI\\Services\\Blogs\\BlogService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:38:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Blogs\\IBlogService.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Services\\Blogs\\IBlogService.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Blogs\\IBlogService.cs",
+              "RelativeToolTip": "BMSAPI\\Services\\Blogs\\IBlogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:38:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blogs.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Models\\Blogs.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Models\\Blogs.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Models\\Blogs.cs",
+              "RelativeToolTip": "BMSAPI\\Models\\Blogs.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawGkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:35:45.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationServices.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Authentication\\AuthenticationServices.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Services\\Authentication\\AuthenticationServices.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Services\\Authentication\\AuthenticationServices.cs",
+              "RelativeToolTip": "BMSAPI\\Services\\Authentication\\AuthenticationServices.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAArwIoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:32:33.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BMSAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\Angular\\BMS\\BMSAPI\\BMSAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BMSAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAcwKoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:30:27.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

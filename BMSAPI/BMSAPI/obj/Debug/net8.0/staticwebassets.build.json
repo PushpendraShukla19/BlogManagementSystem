@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BpGMHcy3tz0uSXe1iCZDI5CR9QxukTaHDKOafqLqtFw=",
+  "Source": "BMSAPI",
+  "BasePath": "_content/BMSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

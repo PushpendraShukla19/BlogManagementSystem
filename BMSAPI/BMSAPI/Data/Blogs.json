@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "How to Write a Great Blog Post",
+    "slug": "how-to-write-a-great-blog-post",
+    "author": {
+      "id": 123,
+      "name": "John Doe",
+      "bio": "John is a content writer with 5 years of experience in blogging and digital marketing.",
+      "profile_picture": "https://example.com/images/john_doe.jpg"
+    },
+    "date": "2024-12-16T10:00:00+00:00",
+    "content": {
+      "intro": "Writing a great blog post can be challenging, but with the right approach, anyone can create valuable content.",
+      "body": "Following these steps will help you create blog posts that both readers and search engines will love."
+    },
+    "tags": [
+      "blogging",
+      "content creation",
+      "SEO",
+      "writing tips"
+    ],
+    "featured_image": [
+      "https://example.com/images/blog-post.jpg",
+      "https://example.com/images/blog-post2.jpg",
+      "https://example.com/images/blog-post3.jpg"
+    ],
+    "category": "Writing",
+    "meta": {
+      "description": "Here are some tips on how to create great blog content...",
+      "keywords": [
+        "SEO",
+        "blogging",
+        "digital marketing",
+        "content strategy"
+      ]
+    },
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "The Importance of SEO in Blogging",
+    "slug": "importance-of-seo-in-blogging",
+    "author": {
+      "id": 124,
+      "name": "Jane Smith",
+      "bio": "Jane is a digital marketing expert and blogger with a focus on SEO and content strategy.",
+      "profile_picture": "https://example.com/images/jane_smith.jpg"
+    },
+    "date": "2024-12-17T08:30:00+00:00",
+    "content": {
+      "intro": "SEO plays a crucial role in increasing the visibility of your blog, ensuring that your content reaches the right audience.",
+      "body": "This post will cover essential SEO strategies to improve your blog's ranking and visibility in search engines."
+    },
+    "tags": [
+      "SEO",
+      "blogging",
+      "digital marketing",
+      "content strategy"
+    ],
+    "featured_image": [
+      "https://example.com/images/seo-blog-post.jpg",
+      "https://example.com/images/seo-blog-post2.jpg"
+    ],
+    "category": "SEO",
+    "meta": {
+      "description": "Here are some tips on how to create great blog content...",
+      "keywords": [
+        "SEO",
+        "blogging",
+        "digital marketing",
+        "content strategy"
+      ]
+    },
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Introduction in C#",
+    "slug": "introduction-in-c",
+    "author": {
+      "id": 0,
+      "name": "",
+      "bio": "",
+      "profile_picture": null
+    },
+    "date": "2024-12-16T14:55:52.6934599+05:30",
+    "content": {
+      "intro": "This is an introductory blog about C# programming language.",
+      "body": "C# is a powerful, modern object-oriented programming language developed by Microsoft. It is widely used for building desktop, web, and mobile applications."
+    },
+    "tags": [
+      "c#",
+      "Programming",
+      "Introduction"
+    ],
+    "featured_image": [
+      "introduction-in-c_20241216092543921.jpg",
+      "introduction-in-c_20241216092543941.jpg",
+      "introduction-in-c_20241216092543947.jpg",
+      "introduction-in-c_20241216092543949.jfif",
+      "introduction-in-c_20241216092543952.jfif",
+      "introduction-in-c_20241216092543954.jpeg"
+    ],
+    "category": "Programming",
+    "meta": {
+      "description": "Learn about the C# programming language and its uses in this introductory blog post.",
+      "keywords": [
+        "c#",
+        "programming language",
+        "coding",
+        "tutorial"
+      ]
+    },
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Hello world",
+    "slug": "hello-world",
+    "author": {
+      "id": 25,
+      "name": "Pushpendra Shukla",
+      "bio": null,
+      "profile_picture": null
+    },
+    "date": "2024-12-20T17:59:21.5840836+05:30",
+    "content": {
+      "intro": "Hello world",
+      "body": "Hello world"
+    },
+    "tags": [
+      "Hello world"
+    ],
+    "featured_image": [],
+    "category": "Hello world",
+    "meta": {
+      "description": "Hello world",
+      "keywords": [
+        "Hello world"
+      ]
+    },
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Demo circle",
+    "slug": "demo-circle",
+    "author": {
+      "id": 21,
+      "name": "Prasant",
+      "bio": null,
+      "profile_picture": null
+    },
+    "date": "2024-12-20T19:07:35.2305031+05:30",
+    "content": {
+      "intro": "Demo circle",
+      "body": "Demo circleDemo circleDemo circleDemo circleDemo circleDemo circleDemo circleDemo circleDemo circleDemo circle"
+    },
+    "tags": [
+      "[\"Demo circle\",\"Demo circle\"]"
+    ],
+    "featured_image": [
+      "demo-circle_20241220133734372.png",
+      "demo-circle_20241220133734394.jpg",
+      "demo-circle_20241220133734400.jpg"
+    ],
+    "category": "Demo circle",
+    "meta": {
+      "description": "Demo circle",
+      "keywords": [
+        "[\"Demo circle\",\"Demo circle\",\"Demo circle\"]"
+      ]
+    },
+    "status": true
+  }
+]

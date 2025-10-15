@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "password123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "password": "password234",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 3,
+      "name": "Shakti",
+      "email": "michaeljohnson@example.com",
+      "password": "Dots@123",
+      "bio": "Developer Shakti",
+      "profile_picture": "shakti_20241216110414595.jfif"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "password": "password456",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "davidwilson@example.com",
+      "password": "password567",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 6,
+      "name": "Sarah Brown",
+      "email": "sarahbrown@example.com",
+      "password": "password678",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 7,
+      "name": "James Taylor",
+      "email": "jamestaylor@example.com",
+      "password": "password789",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 8,
+      "name": "Jessica Moore",
+      "email": "jessicamoore@example.com",
+      "password": "password890",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 9,
+      "name": "Chris Martin",
+      "email": "chrismartin@example.com",
+      "password": "password901",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 10,
+      "name": "Lisa Anderson",
+      "email": "lisaanderson@example.com",
+      "password": "password012",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 11,
+      "name": "Matthew Thomas",
+      "email": "matthewthomas@example.com",
+      "password": "password1234",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 12,
+      "name": "Olivia Jackson",
+      "email": "oliviajackson@example.com",
+      "password": "password2345",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 13,
+      "name": "Daniel White",
+      "email": "danielwhite@example.com",
+      "password": "password3456",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 14,
+      "name": "Sophia Harris",
+      "email": "sophiaharris@example.com",
+      "password": "password4567",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 15,
+      "name": "Liam Clark",
+      "email": "liamclark@example.com",
+      "password": "password5678",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 16,
+      "name": "Ava Lewis",
+      "email": "avalewis@example.com",
+      "password": "password6789",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 17,
+      "name": "Ethan Young",
+      "email": "ethanyoung@example.com",
+      "password": "password7890",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 18,
+      "name": "Mia King",
+      "email": "miaking@example.com",
+      "password": "password8901",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 19,
+      "name": "Alexander Scott",
+      "email": "alexanderscott@example.com",
+      "password": "password9012",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 20,
+      "name": "Charlotte Green",
+      "email": "charlottegreen@example.com",
+      "password": "password0123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 21,
+      "name": "Prasant",
+      "email": "prasant@example.com",
+      "password": "Dots@123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 22,
+      "name": "Pushpendra",
+      "email": "pushpendra@gmail.com",
+      "password": "Dots@123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 23,
+      "name": "string",
+      "email": "string@gmail.com",
+      "password": "String@123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 24,
+      "name": "allstarfamilytravel_testAPI",
+      "email": "adminds@yopmail.com",
+      "password": "Dots@123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 25,
+      "name": "Pushpendra Shukla",
+      "email": "pushpendrashukla@gmail.com",
+      "password": "Dots@123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 26,
+      "name": "Shivam",
+      "email": "shivam@gmail.com",
+      "password": "Dots@123",
+      "bio": null,
+      "profile_picture": null
+    },
+    {
+      "id": 27,
+      "name": "Chandan",
+      "email": "shukla.chandan@gmail.com",
+      "password": "Dots@123",
+      "bio": null,
+      "profile_picture": null
+    }
+  ]
+}
